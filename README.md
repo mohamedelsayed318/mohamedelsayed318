@@ -18,17 +18,7 @@
 [<img align="left" alt="fullstacked.com | discord" width="50px" src="https://i.postimg.cc/3Rf6d8zn/372108630-DISCORD-LOGO-1080.gif" />][discord]
 [<img align="left" alt="fullstacked.com | Twitter" width="50px" src="https://i.postimg.cc/hvwH3Drf/371907120-YOUTUBE-ICON-TRANSPARENT-1080.gif" />][youtube]
 
-[<img align="left" alt="fullstacked.com | LinkedIn" width="50px" src="https://i.postimg.cc/0rRVwbnd/372102050-LINKEDIN-ICON-TRANSPARENT-1080.gif" />][linkedin]
-
-<br />
-<br />
-
-### Current Stack:
-
-Front-End: **JavaScript** **NextJs**
-<br />
-Back-End: **Mongodb** **NodeJS**
-
+[<img align="left" alt="fullstacked.com | LinkedIn" width="50px" src="https://i.postimg.cc/0rRVwbnd/372102050-LINKEDIN-ICON-TRANSPARENT-1080.gif" />][linkedin
 ---
 
 [website]: https://mohamed-alsayyd.vercel.app
