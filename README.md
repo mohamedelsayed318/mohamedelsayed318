@@ -1,16 +1,40 @@
-### Hi there 👋
+### Hi there, I'm Enyel Sequeira check out my -> [Website]👋
+## A Software Developer who loves to code and learn new things each day. 
 
-<!--
-**mohamedalsayyd/mohamedalsayyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming&theme=dracula&animation=default&layout=zues&font=Redressed)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## I'm a Full-Stack Developer who is always learning!
+- 🖥 I’m currently working as a Freelancer Frontend Engineer 
+- 🤓 I’m currently learning more about `Nodejs` and `expressJS`
+- 👨🏻‍💻 I’m looking to build meaningful apps
+
+
+
+### Connect with me:
+
+[<img align="left" alt="fullstacked.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="fullstacked.com | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="fullstacked.com | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="fullstacked.com | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+### Current Stack: 
+
+Front-End: **JavaScript** **NextJs**
+<br />
+Back-End: **Mongodb** **NodeJS**
+
+---
+
+
+[website]: https://mohamed-alsayyd.vercel.app
+[twitter]: https://twitter.com/MedoAlsayyd4
+[instagram]: https://www.instagram.com/mohamed_alsayyd0
+[linkedin]: https://www.linkedin.com/in/mohamed-alsayyd-57bb481b6
+
+
+
+
