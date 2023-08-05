@@ -4,7 +4,7 @@
 
 
 ## I'm a Full-Stack Developer who is always learning!
-- 🖥 I’m currently working as a Freelancer Frontend Engineer 
+-  <img align="left" alt="fullstacked.com" width="22px" src="https://i.postimg.cc/VLf1SvSW/wired-flat-478-computer-display.gif" /> I’m currently working as a Freelancer Frontend Engineer 
 - 🤓 I’m currently learning more about `Nodejs` and `expressJS`
 - 👨🏻‍💻 I’m looking to build meaningful apps
 
