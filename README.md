@@ -21,6 +21,7 @@
 [<img align="left" alt="fullstacked.com | LinkedIn" width="50px" src="https://i.postimg.cc/0rRVwbnd/372102050-LINKEDIN-ICON-TRANSPARENT-1080.gif" />][linkedin]
 
 <br />
+<br />
 
 ### Current Stack:
 
