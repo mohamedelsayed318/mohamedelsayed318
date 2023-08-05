@@ -2,8 +2,6 @@
 ## A Software Developer who loves to code and learn new things each day. 
 
 
- ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming&theme=dracula&animation=default&layout=zues&font=Redressed)
-
 
 ## I'm a Full-Stack Developer who is always learning!
 - 🖥 I’m currently working as a Freelancer Frontend Engineer 
