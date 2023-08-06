@@ -27,7 +27,7 @@
 
 Front-End: **ReactJs** **NextJs**
 <br />
-Back-End: **NodeJS** **ExpressJs**
+Back-End: **NodeJs** **ExpressJs**
 
 ---
 
