@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="fullstacked.com" width="50px" src="https://cdn.discordapp.com/attachments/692385864717697054/1191837889160548422/wired-outline-11-link-unlink.gif" />][website]
+[<img align="left" alt="fullstacked.com" width="50px" src="https://cdn.discordapp.com/attachments/692385864717697054/1191838138616778843/wired-outline-11-link-unlink_1.gif" />][website]
 [<img align="left" alt="fullstacked.com | facebook" width="50px" src="https://i.postimg.cc/G23w4Sth/371907490-FACEBOOK-ICON-TRANSPARENT-1080.gif" />][facebook]
 [<img align="left" alt="fullstacked.com | Twitter" width="50px" src="https://cdn.discordapp.com/attachments/692385864717697054/1191835928310853652/twitte.gif" />][twitter]
 [<img align="left" alt="fullstacked.com | instagram" width="50px" src="https://i.postimg.cc/Z5zQ9DDt/371907300-INSTAGRAM-ICON-TRANSPARENT-1080.gif" />][instagram]
