@@ -4,9 +4,9 @@
 
 ## I'm a Full-Stack Developer who is always learning!
 
-- <img align="left" alt="fullstacked.com" width="22px" src="https://i.postimg.cc/VLf1SvSW/wired-flat-478-computer-display.gif" /> I’m currently working as a Freelancer Frontend Engineer
-- <img align="left" alt="fullstacked.com" width="22px" src="https://i.postimg.cc/rFj85vj7/wired-lineal-742-multimedia-code-1.gif" /> I’m currently learning more about `Nodejs` and `expressJS`
-- <img align="left" alt="fullstacked.com" width="22px" src="https://i.postimg.cc/ydLjvLPd/wired-lineal-1327-api-symbol.gif" /> I’m looking to build meaningful apps
+- I’m currently working as a Freelancer Frontend Engineer
+- I’m currently learning more about `Nodejs` and `expressJS`
+- I’m looking to build meaningful apps
 
 ### Connect with me:
 
