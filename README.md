@@ -13,7 +13,7 @@
 
 [<img align="left" alt="fullstacked.com" width="50px" src="https://i.postimg.cc/vmZwBNc8/wired-lineal-11-link-unlink-morph.gif" />][website]
 [<img align="left" alt="fullstacked.com | facebook" width="50px" src="https://i.postimg.cc/G23w4Sth/371907490-FACEBOOK-ICON-TRANSPARENT-1080.gif" />][facebook]
-[<img align="left" alt="fullstacked.com | Twitter" width="50px" src="[https://i.postimg.cc/qv06TWTg/371907030-TWITTER-ICON-TRANSPARENT-1080.gif](https://cdn.discordapp.com/attachments/692385864717697054/1191835928310853652/twitte.gif)" />][twitter]
+[<img align="left" alt="fullstacked.com | Twitter" width="50px" src="https://cdn.discordapp.com/attachments/692385864717697054/1191835928310853652/twitte.gif" />][twitter]
 [<img align="left" alt="fullstacked.com | instagram" width="50px" src="https://i.postimg.cc/Z5zQ9DDt/371907300-INSTAGRAM-ICON-TRANSPARENT-1080.gif" />][instagram]
 [<img align="left" alt="fullstacked.com | discord" width="50px" src="https://i.postimg.cc/3Rf6d8zn/372108630-DISCORD-LOGO-1080.gif" />][discord]
 [<img align="left" alt="fullstacked.com | Twitter" width="50px" src="https://i.postimg.cc/hvwH3Drf/371907120-YOUTUBE-ICON-TRANSPARENT-1080.gif" />][youtube]
