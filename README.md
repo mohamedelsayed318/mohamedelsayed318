@@ -14,10 +14,10 @@
 [<img align="left" alt="fullstacked.com | facebook" width="50px" src="https://cdn.discordapp.com/attachments/692385864717697054/1191838583443705876/371907490_FACEBOOK_ICON_TRANSPARENT_1080.gif" />][facebook]
 [<img align="left" alt="fullstacked.com | Twitter" width="50px" src="https://cdn.discordapp.com/attachments/692385864717697054/1191835928310853652/twitte.gif" />][twitter]
 [<img align="left" alt="fullstacked.com | instagram" width="50px" src="https://cdn.discordapp.com/attachments/692385864717697054/1191838914353311794/371907300_INSTAGRAM_ICON_TRANSPARENT_1080.gif" />][instagram]
-[<img align="left" alt="fullstacked.com | discord" width="50px" src="https://i.postimg.cc/3Rf6d8zn/372108630-DISCORD-LOGO-1080.gif" />][discord]
-[<img align="left" alt="fullstacked.com | Twitter" width="50px" src="https://i.postimg.cc/hvwH3Drf/371907120-YOUTUBE-ICON-TRANSPARENT-1080.gif" />][youtube]
+[<img align="left" alt="fullstacked.com | discord" width="50px" src="https://cdn.discordapp.com/attachments/692385864717697054/1191856539217174568/372108630_DISCORD_LOGO_1080.gif" />][discord]
+[<img align="left" alt="fullstacked.com | Twitter" width="50px" src="https://cdn.discordapp.com/attachments/692385864717697054/1191856932378656771/371907120_YOUTUBE_ICON_TRANSPARENT_1080.gif" />][youtube]
 
-[<img align="left" alt="fullstacked.com | LinkedIn" width="50px" src="https://i.postimg.cc/0rRVwbnd/372102050-LINKEDIN-ICON-TRANSPARENT-1080.gif" />][linkedin]
+[<img align="left" alt="fullstacked.com | LinkedIn" width="50px" src="https://cdn.discordapp.com/attachments/692385864717697054/1191857355223212053/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" />][linkedin]
 
 <br />
 <br />
