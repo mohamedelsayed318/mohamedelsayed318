@@ -8,19 +8,6 @@
 - I’m currently learning more about `Nodejs` and `expressJS`
 - I’m looking to build meaningful apps
 
-### Connect with me:
-
-[<img align="left" alt="fullstacked.com" width="50px" src="[https://cdn.discordapp.com/attachments/692385864717697054/1191838138616778843/wired-outline-11-link-unlink_1.gif]" />][website]
-[<img align="left" alt="fullstacked.com | facebook" width="50px" src="[https://cdn.discordapp.com/attachments/692385864717697054/1191838583443705876/371907490_FACEBOOK_ICON_TRANSPARENT_1080.gif]" />][facebook]
-[<img align="left" alt="fullstacked.com | Twitter" width="50px" src="[https://cdn.discordapp.com/attachments/692385864717697054/1191835928310853652/twitte.gif]" />][twitter]
-[<img align="left" alt="fullstacked.com | instagram" width="50px" src="[https://cdn.discordapp.com/attachments/692385864717697054/1191838914353311794/371907300_INSTAGRAM_ICON_TRANSPARENT_1080.gif]" />][instagram]
-[<img align="left" alt="fullstacked.com | discord" width="50px" src="https://cdn.discordapp.com/attachments/692385864717697054/1191856539217174568/372108630_DISCORD_LOGO_1080.gif" />][discord]
-[<img align="left" alt="fullstacked.com | Twitter" width="50px" src="https://cdn.discordapp.com/attachments/692385864717697054/1191856932378656771/371907120_YOUTUBE_ICON_TRANSPARENT_1080.gif" />][youtube]
-
-[<img align="left" alt="fullstacked.com | LinkedIn" width="50px" src="https://cdn.discordapp.com/attachments/692385864717697054/1191857355223212053/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" />][linkedin]
-
-<br />
-<br />
 
 ### Current Stack:
 
