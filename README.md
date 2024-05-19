@@ -4,7 +4,7 @@
 
 ## I'm a Full-Stack Developer who is always learning!
 
-- I’m currently working as a Freelancer Frontend Engineer
+- I’m currently working as a Freelancer Fullstack Engineer
 - I’m currently learning more about `Nodejs` and `expressJS`
 - I’m looking to build meaningful apps
 
