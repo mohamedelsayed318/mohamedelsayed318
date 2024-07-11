@@ -66,8 +66,6 @@ Back-End: **NodeJs** **ExpressJs**
 &nbsp;
 <span><img src="https://img.shields.io/badge/Shell-282C34?logo=gnu-bash&logoColor=4EAA25" alt="Shell logo" title="Shell" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Swagger-282C34?logo=swagger&logoColor=85EA2D" alt="Swagger logo" title="Swagger" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" /></span>
