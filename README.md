@@ -24,6 +24,14 @@ Back-End: **NodeJs** **ExpressJs**
 [discord]: https://discordapp.com/users/lime1721
 [youtube]: https://www.youtube.com/channel/UC0XBAVU76vxk05M8SX8gt4Q
 [linkedin]: https://www.linkedin.com/in/mohamed-alsayyd-57bb481b6
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moahmedelsayed318&theme=tokyonight)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=moahmedelsayed318&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=moahmedelsayed318&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=moahmedelsayed318&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&&hide=html,ejs,css,dockerfile)
+
+<br />
 <h3 align="center"> 
   Visitor count <br><br>
   <img  src="https://profile-counter.glitch.me/mohamedelsayed318/count.svg" />
