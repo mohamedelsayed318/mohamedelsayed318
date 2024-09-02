@@ -84,7 +84,7 @@ Back-End: **NodeJs** **ExpressJs**
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedelsayed318&theme=tokyonight)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohamedelsayed318&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mohamedelsayed318&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&&hide=html,ejs,css,dockerfile)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mohamedelsayed318&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&&hide=html,ejs,css,dockerfile,scss)
 
 <br />
 <h3 align="center"> 
