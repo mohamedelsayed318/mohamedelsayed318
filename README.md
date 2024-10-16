@@ -27,7 +27,7 @@ Back-End: **NodeJs** **ExpressJs**
 
 
 <br>
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<h2 align="center"><span><img src="https://camo.githubusercontent.com/28667441bb9b0c4974a990d44cb4eeee21ab8169ea16bb9cd5de528081323383/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a534b426d4b6b766f3264505151747352312f67697068792e676966" alt="Technologies logo" title="Technologies" height="25" /></span> Technologies and Tools <span><img src="https://camo.githubusercontent.com/28667441bb9b0c4974a990d44cb4eeee21ab8169ea16bb9cd5de528081323383/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a534b426d4b6b766f3264505151747352312f67697068792e676966" alt="Technologies logo" title="Technologies" height="25" /></span></h2>
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
