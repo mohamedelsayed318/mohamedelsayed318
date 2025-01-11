@@ -13,7 +13,7 @@
 
 Front-End: **ReactJs** **NextJs**
 <br />
-Back-End: **NodeJs** **ExpressJs**
+Back-End: **NodeJs** **ExpressJs** || **NestJs**
 
 ---
 
