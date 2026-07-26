@@ -1,93 +1,77 @@
-### Hi there, I'm Mohamed Elsayed check out my [Website] <img align="left" alt="fullstacked.com" width="22px" src="https://i.postimg.cc/T1yPtQPn/wired-flat-21-avatar-1.gif" />
+<h1 align="center">Hi, I'm Mohamed Elsayed</h1>
 
-## A Software Developer who loves to code and learn new things each day.
-- I’m currently working as a Freelancer Fullstack Engineer
-- I’m currently learning more about `Nestjs, Angular & Flutter` 
-- I’m looking to build meaningful apps
+<p align="center">
+  <a href="https://mohamed-elsayed-v1.vercel.app">
+    <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" alt="Animated coding accent" height="32" />
+  </a>
+</p>
 
+<p align="center">
+  Fullstack software developer building meaningful web and mobile apps.
+</p>
 
-### Current Stack:
+<p align="center">
+  <a href="https://mohamed-elsayed-v1.vercel.app"><img src="https://img.shields.io/badge/Website-282C34?logo=vercel&logoColor=white" alt="Website" height="25" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-alsayyd-57bb481b6"><img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0A66C2" alt="LinkedIn" height="25" /></a>
+  <a href="https://twitter.com/MedoAlsayyd4"><img src="https://img.shields.io/badge/Twitter-282C34?logo=x&logoColor=white" alt="Twitter" height="25" /></a>
+  <a href="https://www.instagram.com/mo_elsayed318"><img src="https://img.shields.io/badge/Instagram-282C34?logo=instagram&logoColor=E4405F" alt="Instagram" height="25" /></a>
+  <a href="https://www.facebook.com/medo.alsayyd.1"><img src="https://img.shields.io/badge/Facebook-282C34?logo=facebook&logoColor=1877F2" alt="Facebook" height="25" /></a>
+  <a href="https://www.youtube.com/channel/UC0XBAVU76vxk05M8SX8gt4Q"><img src="https://img.shields.io/badge/YouTube-282C34?logo=youtube&logoColor=FF0000" alt="YouTube" height="25" /></a>
+  <img src="https://komarev.com/ghpvc/?username=mohamedelsayed318&style=flat-square&color=0e75b6" alt="Profile views" height="25" />
+</p>
 
-Front-End: **ReactJs** **NextJs**
-<br />
-Back-End: **NodeJs** **ExpressJs** || **NestJs**
+## About me
 
----
+- Working as a freelance fullstack engineer.
+- Learning more about `NestJS`, `Angular`, and `Flutter`.
+- Interested in building useful products with clean developer experience.
 
-[website]: https://mohamed-elsayed-v1.vercel.app
-[facebook]: https://www.facebook.com/medo.alsayyd.1/
-[twitter]: https://twitter.com/MedoAlsayyd4
-[instagram]: https://www.instagram.com/mo_elsayed318
-[discord]: https://discordapp.com/users/lime1721
-[youtube]: https://www.youtube.com/channel/UC0XBAVU76vxk05M8SX8gt4Q
-[linkedin]: https://www.linkedin.com/in/mohamed-alsayyd-57bb481b6
+## Current stack
 
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JavaScript" height="25" />
+  <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript" title="TypeScript" height="25" />
+  <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React" title="React" height="25" />
+  <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js" title="Next.js" height="25" />
+  <img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=DD0031" alt="Angular" title="Angular" height="25" />
+  <img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter" title="Flutter" height="25" />
+  <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js" title="Node.js" height="25" />
+  <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js" title="Express.js" height="25" />
+  <img src="https://img.shields.io/badge/NestJS-282C34?logo=nestjs&logoColor=E0234E" alt="NestJS" title="NestJS" height="25" />
+  <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB" title="MongoDB" height="25" />
+  <img src="https://img.shields.io/badge/Postgres-282C34?logo=postgresql&logoColor=336791" alt="Postgres" title="Postgres" height="25" />
+  <img src="https://img.shields.io/badge/Redis-282C34?logo=redis&logoColor=DC382D" alt="Redis" title="Redis" height="25" />
+  <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker" title="Docker" height="25" />
+  <img src="https://img.shields.io/badge/Nginx-282C34?logo=nginx&logoColor=009639" alt="Nginx" title="Nginx" height="25" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-282C34?logo=github-actions&logoColor=2088FF" alt="GitHub Actions" title="GitHub Actions" height="25" />
+  <img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" alt="Linux" title="Linux" height="25" />
+  <img src="https://img.shields.io/badge/Shell-282C34?logo=gnu-bash&logoColor=4EAA25" alt="Shell" title="Shell" height="25" />
+  <img src="https://img.shields.io/badge/Swagger-282C34?logo=swagger&logoColor=85EA2D" alt="Swagger" title="Swagger" height="25" />
+  <img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman" title="Postman" height="25" />
+  <img src="https://img.shields.io/badge/Socket.io-282C34?logo=socket.io&logoColor=FFFFFF" alt="Socket.io" title="Socket.io" height="25" />
+  <img src="https://img.shields.io/badge/Render-282C34?logo=render&logoColor=46E3B7" alt="Render" title="Render" height="25" />
+</p>
 
-<br>
-<h2 align="center"><span><img src="https://camo.githubusercontent.com/28667441bb9b0c4974a990d44cb4eeee21ab8169ea16bb9cd5de528081323383/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a534b426d4b6b766f3264505151747352312f67697068792e676966" alt="Technologies logo" title="Technologies" height="25" /></span> Technologies and Tools <span><img src="https://camo.githubusercontent.com/28667441bb9b0c4974a990d44cb4eeee21ab8169ea16bb9cd5de528081323383/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a534b426d4b6b766f3264505151747352312f67697068792e676966" alt="Technologies logo" title="Technologies" height="25" /></span></h2>
-<br>
-<!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Redis-282C34?logo=redis&logoColor=DC382D" alt="Redis logo" title="Redis" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Nginx-282C34?logo=nginx&logoColor=009639" alt="Nginx logo" title="Nginx" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Postgres-282C34?logo=postgresql&logoColor=336791" alt="Postgres logo" title="Postgres" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/CI/CD-282C34?logo=github-actions&logoColor=2088FF" alt="CI/CD logo" title="CI/CD" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Github%20Actions-282C34?logo=github-actions&logoColor=2088FF" alt="Github Actions logo" title="Github Actions" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" alt="Linux logo" title="Linux" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Shell-282C34?logo=gnu-bash&logoColor=4EAA25" alt="Shell logo" title="Shell" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Swagger-282C34?logo=swagger&logoColor=85EA2D" alt="Swagger logo" title="Swagger" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Socket.io-282C34?logo=socket.io&logoColor=010101" alt="Socket.io logo" title="Socket.io" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Render-282C34?logo=render&logoColor=333333" alt="Render logo" title="Render" height="25" /></span>
-&nbsp;
-<br>
-<br>
+## GitHub stats
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedelsayed318&theme=tokyonight" alt="Mohamed's GitHub profile summary" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohamedelsayed318&theme=tokyonight" alt="Repositories per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohamedelsayed318&theme=tokyonight" alt="Most committed languages" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohamedelsayed318&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohamedelsayed318&theme=tokyonight&utcOffset=2" alt="Productive time" />
+</p>
 
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+## Contribution snake
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedelsayed318&theme=tokyonight)
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohamedelsayed318&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mohamedelsayed318&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&&hide=html,ejs,css,dockerfile,scss)
-
-<br />
-<h3 align="center"> 
-  Visitor count <br><br>
-  <img  src="https://profile-counter.glitch.me/mohamedelsayed318/count.svg" />
-</h3>
-
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedelsayed318/mohamedelsayed318/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamedelsayed318/mohamedelsayed318/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/mohamedelsayed318/mohamedelsayed318/output/github-contribution-grid-snake.svg" />
+</picture>
