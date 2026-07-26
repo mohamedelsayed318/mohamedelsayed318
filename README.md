@@ -52,20 +52,14 @@
   <img src="https://img.shields.io/badge/Render-282C34?logo=render&logoColor=46E3B7" alt="Render" title="Render" height="25" />
 </p>
 
-## GitHub stats
+## GitHub activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedelsayed318&theme=tokyonight" alt="Mohamed's GitHub profile summary" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedelsayed318&theme=tokyo-night&hide_border=true&area=true" alt="Mohamed's GitHub activity graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohamedelsayed318&theme=tokyonight" alt="Repositories per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohamedelsayed318&theme=tokyonight" alt="Most committed languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohamedelsayed318&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohamedelsayed318&theme=tokyonight&utcOffset=2" alt="Productive time" />
+  <img src="https://streak-stats.demolab.com?user=mohamedelsayed318&theme=tokyonight&hide_border=true" alt="Mohamed's GitHub streak" />
 </p>
 
 ## Contribution snake
