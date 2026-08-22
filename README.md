@@ -12,12 +12,8 @@
 
 <p align="center">
   <a href="https://mohamed-elsayed-v1.vercel.app"><img src="https://img.shields.io/badge/Website-282C34?logo=vercel&logoColor=white" alt="Website" height="25" /></a>
-  <a href="https://www.linkedin.com/in/mohamed-alsayyd-57bb481b6"><img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0A66C2" alt="LinkedIn" height="25" /></a>
-  <a href="https://twitter.com/MedoAlsayyd4"><img src="https://img.shields.io/badge/Twitter-282C34?logo=x&logoColor=white" alt="Twitter" height="25" /></a>
-  <a href="https://www.instagram.com/mo_elsayed318"><img src="https://img.shields.io/badge/Instagram-282C34?logo=instagram&logoColor=E4405F" alt="Instagram" height="25" /></a>
-  <a href="https://www.facebook.com/medo.alsayyd.1"><img src="https://img.shields.io/badge/Facebook-282C34?logo=facebook&logoColor=1877F2" alt="Facebook" height="25" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-elsayed-p"><img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0A66C2" alt="LinkedIn" height="25" /></a>
   <a href="https://www.youtube.com/channel/UC0XBAVU76vxk05M8SX8gt4Q"><img src="https://img.shields.io/badge/YouTube-282C34?logo=youtube&logoColor=FF0000" alt="YouTube" height="25" /></a>
-  <img src="https://komarev.com/ghpvc/?username=mohamedelsayed318&style=flat-square&color=0e75b6" alt="Profile views" height="25" />
 </p>
 
 ## About me
